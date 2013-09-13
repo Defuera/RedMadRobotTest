@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedMadRobotTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_start_collage">Добавить коллаж</string>
+    <string name="str_ninckname_hint">Имя</string>
+    
+    <string name="action_reload">Reload</string>
+    
+    <string name="action_print">Print</string>
+    
+    <string name="client_id">5a69c44da094410fa82a8fa1d5779974</string>
+    <string name="client_secret">366f3a1cdc3f4283a30bb2480ca8d9c9</string>
+    <string name="APP_ID">RedManRobotTest</string>
+    <string name="callbackurl">http://idonthaveawebsite.com</string>
+    <string name="str_printing">Printing...</string>
+    
+    <string name="str_cancel">Cancel</string>
+
+</resources>

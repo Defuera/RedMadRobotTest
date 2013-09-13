@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_reload"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:orderInCategory="101"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_reload"/>
+    <item
+        android:id="@+id/action_print"
+        android:icon="@drawable/printer1"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_print"/>
+
+</menu>
